@@ -6,15 +6,15 @@ Redaktioneller Stand: 4. November 2026. Die Unterrichtszeit wird durch die Lehrk
 
 Öffentlicher Teilnehmerlink: https://form.menti.com/s/al8bbbb5jk79
 
-Bestehendes Menti Form, gleiche Form-ID und gleicher Teilnahmelink. Alle fünf Fragen sind freiwillig, ohne Namens- oder E-Mail-Abfrage. Das Formular nimmt Antworten an. Keine Quizwertung, Rangliste oder Zeitbegrenzung. Teilnehmeransicht und Einstellungen ohne Eingabe oder Abgabe von Testantworten geprüft; Ergebnisübersicht anschließend weiterhin 0 Teilnehmende / No responses yet. Der Website-Button wurde angeklickt und öffnet die aktualisierte Fassung.
+Bestehendes Menti Form, gleiche Form-ID und gleicher Teilnahmelink. Alle Fragen und Bearbeitungshinweise im Mentimeter verwenden die Sie-Form; die Website behält ihre bisherige Ansprache. Alle fünf Fragen sind freiwillig, ohne Namens- oder E-Mail-Abfrage. Das Formular nimmt Antworten an. Keine Quizwertung, Rangliste oder Zeitbegrenzung. Teilnehmeransicht und Einstellungen ohne Eingabe oder Abgabe von Testantworten geprüft; Ergebnisübersicht anschließend weiterhin 0 Teilnehmende / No responses yet. Der Website-Button wurde angeklickt und öffnet die aktualisierte Fassung.
 
-### 1. Was beschäftigt dich politisch gerade am meisten?
+### 1. Was beschäftigt Sie politisch gerade am meisten?
 
-Offene Eingabe: „Nenne bis zu drei kurze Begriffe.“ Im verwendeten Menti Form steht kein Wortwolken-Fragetyp zur Verfügung. Stattdessen sind höchstens drei offene Eingaben pro Person technisch eingestellt.
+Offene Eingabe: „Nennen Sie bis zu drei kurze Begriffe.“ Im verwendeten Menti Form steht kein Wortwolken-Fragetyp zur Verfügung. Stattdessen sind höchstens drei offene Eingaben pro Person technisch eingestellt.
 
 ### 2. Bei welchen Themen muss sich besonders dringend etwas ändern?
 
-Mehrfachauswahl mit technisch höchstens drei Antworten. Hinweis: „Wähle höchstens drei Themen.“
+Mehrfachauswahl mit technisch höchstens drei Antworten. Hinweis: „Wählen Sie höchstens drei Themen.“
 
 - Wohnen
 - Lebenshaltungskosten
@@ -26,7 +26,7 @@ Mehrfachauswahl mit technisch höchstens drei Antworten. Hinweis: „Wähle höc
 - politische Mitsprache
 - anderes Thema
 
-### 3. Wie stehst du zu den Gen-Z-Protesten?
+### 3. Wie stehen Sie zu den Gen-Z-Protesten?
 
 Einfachauswahl:
 
@@ -36,7 +36,7 @@ Einfachauswahl:
 - unentschieden
 - zu wenig informiert
 
-### 4. Wie sehr stimmst du zu?
+### 4. Wie sehr stimmen Sie zu?
 
 Ein Skalenblock mit drei Aussagen:
 
@@ -46,9 +46,9 @@ Ein Skalenblock mit drei Aussagen:
 
 Je Aussage Skala 1–5: Stimme gar nicht zu / Stimme eher nicht zu / Teils, teils / Stimme eher zu / Stimme voll zu. Jede Aussage kann einzeln unbeantwortet bleiben; darauf weist die Beschreibung hin. Es gibt kein gesondertes Enthaltungsfeld. In der unangetasteten Teilnehmeransicht tragen alle drei Regler die zugängliche Beschreibung „No value selected“; die angezeigte technische Startposition 1 ist noch keine ausgewählte Antwort.
 
-### 5. Welche konkrete Veränderung würdest du von der Politik fordern – und warum?
+### 5. Welche konkrete Veränderung würden Sie von der Politik fordern – und warum?
 
-Offene Antwort, eine Eingabe. Hinweis: „Antworte in ein bis zwei Sätzen.“
+Offene Antwort, eine Eingabe. Hinweis: „Antworten Sie in ein bis zwei Sätzen.“
 
 ### Gemeinsame Auswertung
 
