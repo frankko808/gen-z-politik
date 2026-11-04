@@ -1,6 +1,6 @@
 # Lehrkraftübersicht · Gen Z geht auf die Straße
 
-Redaktioneller Stand: 3. November 2026. Erkunden: ungefähr 30–40 Minuten, freie Reihenfolge. Alle drei Wissensfragen lassen sich ausschließlich mit dem Bereich „Was ist passiert?“ beantworten. Keine Bewertung persönlicher Positionen als richtig oder falsch.
+Redaktioneller Stand: 4. November 2026. Die Unterrichtszeit wird durch die Lehrkraft vorgegeben; freie Themenwahl. Mentimeter bleibt in V3 unverändert. Die Website nutzt Du-Form in Aufgaben und Bedienung, sachliche Sprache in Infotexten. Alle drei Wissensfragen lassen sich ausschließlich mit dem Bereich „Was ist passiert?“ beantworten. Keine Bewertung persönlicher Positionen als richtig oder falsch.
 
 ## Exit-Ticket
 
@@ -42,7 +42,7 @@ Abgestufte Zustimmung von sehr wenig bis sehr überzeugend mit neutraler Mitte u
 
 ### 6. Wie angemessen finden Sie Dobrindts Formulierung?
 
-Dokumentierter Wortlaut: „Gewaltbereite linke Gruppen und Chaoten aus dem migrantischen Milieu haben gestern Abend die friedlichen Demonstrationen vom Nachmittag gekapert“.
+Der vollständige dokumentierte Wortlaut steht auf wer-sagt-was.html und im unveränderten Mentimeter.
 
 Quelle und Kontext: Alexander Dobrindt gegenüber Bild, 01.11.2026, dokumentiert durch Deutsche Welle am 01.11.2026 über den Vorabend. Bewertung von sehr unangemessen bis sehr angemessen mit neutraler Mitte und Möglichkeit, kein Urteil abzugeben. Keine richtige Lösung. Behauptung über Gruppenzugehörigkeit, hierfür angeführte Belege und Wirkung der Wortwahl getrennt besprechen. Die Beschreibung von Verdächtigen belegt für sich keine Ursache von Gewalt.
 
@@ -63,8 +63,21 @@ Die vollständigen Links stehen direkt bei den Informationen und in der Quellen�
 - [BSK: Stellungnahme](https://bsk-bund.de/distanzierung-von-den-proteste-am-31-10-2026/), 24.10.2026: Primärquelle einer politischen Position.
 - [DW: Dobrindts Aussage](https://amp.dw.com/de/gen-z-proteste-dobrindt-fordert-harte-strafen-f%C3%BCr-randalierer/a-79820787), 01.11.2026: Nachricht, die ein politisches Statement dokumentiert.
 - [taz-Kommentar](https://taz.de/Jugendproteste-in-Deutschland/!6226352/) und [Tagesspiegel-Kommentar](https://www.tagesspiegel.de/politik/die-gestohlene-jugendbewegung-wer-gegen-alles-protestiert-protestiert-gegen-nichts-16225732.html), beide 01.11.2026: bewusst unterschiedliche argumentierende Positionen; keine neutralen Nachrichtenberichte.
-- Destatis Wahlberechtigte: Veröffentlichung 04.12.2024, Schätzstand 21.11.2024 für Bundestagswahl 2025, keine tatsächlichen Wahlbeteiligungsdaten. Gruppen unter 30: 13,3 %, ab 60: 42,1 %, übrige 44,6 %.
-- Mietdaten: Veröffentlichung 31.03.2023, Erstergebnisse Mikrozensus 2022; Bruttokaltmiete relativ zum Nettohaushaltseinkommen, keine speziell jugendbezogenen Daten.
+- Bundeswahlleiterin, ausgewertete repräsentative Wahlstatistik 2025, 23.06.2025: 30–59 Jahre 44,4 %, ab 60 Jahren 42,6 %, unter 30 rund 13,0 % als rechnerischer Rest aus gerundeten Anteilen. Bezugsgruppe sind Wahlberechtigte der Bundestagswahl 23.02.2025.
+- Mietdaten: Destatis-Endergebnisse 2022, Tabellenstand 19.05.2025; Einzug seit 2019: 29,6 %, vor 1999: 26,9 % Bruttokaltmietbelastung. Das veränderbare Budget verwendet getrennt davon frei erfundene Warmmietwerte.
 - Rechtsrahmen: Art. 8 GG und BVerfG PM 93/2016 vom 14.12.2016 zum Beschluss vom 02.11.2016, 1 BvR 289/15. Hypothetische Fälle sind didaktische Vereinfachungen und keine Rechtsberatung.
 
 Maßnahmenvorschläge und Zielkonflikte auf der Website sind redaktionelle Diskussionsangebote. Sie werden ausdrücklich von tatsächlichen Forderungen der Initiative unterschieden. Die lokale Auswahl und Perspektivenbewertungen werden ausschließlich im Browser gespeichert; zentrale Unterrichtsantworten ausschließlich in Mentimeter. Private Verwaltungslinks werden nicht im Repository gespeichert.
+
+## Neues Startquiz und weitere lokale Interaktionen (V3)
+
+Das Startquiz wurde auf Wunsch überarbeitet: Frage 1 bietet 1990–2005 / 1997–2012 / 2005–2020 (Lösung B). Frage 2 bleibt bei der Protestinitiative (Lösung A). Frage 3 betrifft die prägende Medienumgebung: Smartphone und Social Media seit der Jugend (Lösung B); die falschen Alternativen betreffen Fernsehboom und frühe Heimcomputer. Die Einordnung beruht auf Pew (2019, Methodenhinweise 2023) sowie der JIM-Studie 2025. Keine Aussage über einen einheitlichen Charakter der Generation.
+
+Das Beispielbudget rechnet mit erfundenen Werten; 1.100 Euro Einnahmen minus 600 Euro Warmmiete und 450 Euro andere Ausgaben ergeben 50 Euro. Die Wahlgrafik zeigt ausgewertete Wahlberechtigte 2025. Persönliche Szenarioentscheidungen friedlich bleiben oder gehen werden nicht benotet. Die dritte Szenariooption öffnet einen fiktiven Meldehinweis mit kleinem „kleiner joke“. Nach dem Schließen folgt ein zweiter Dialog zur Ablehnung von Gewalt, Vandalismus und Diebstahl. Es wird keine IP-Adresse ermittelt oder gemeldet und keine Szenarioantwort übertragen. Die Zeit wird im Unterricht durch die Lehrkraft vorgegeben.
+
+
+## Überarbeitete Aufgabenprüfung, 04.11.2026
+
+Alle Website-Aufgaben wurden auf Bezug zu den vorangehenden Inhalten geprüft. Die Checks greifen nun konkrete Situationen auf: unterschiedliche Bedürfnisse von Lea und Samir (B), erste Gehaltsabrechnung und Umlageverfahren (A), Frankfurter Protestablauf (C), ausfallender Schulbus und lokale Zuständigkeit (A), mögliche Verbote weiterer Gen-Z-Demos (C), irreführendes Video im Klassenchat (A). Buchstaben beziehen sich auf die Reihenfolge der Antworten. Jede Auswahl erhält eine eigene Erklärung. Persönliche Prioritäten und Positionen haben keine richtige Lösung. Mentimeter bleibt unverändert.
+
+Der Rechtscheck unterscheidet frühere Ausschreitungen von der Gefahrenprognose für eine konkrete neue Demo. Mildere Maßnahmen und gerichtliche Kontrolle werden im vorhergehenden Text eingeordnet, ohne die Quizantwort wörtlich vorzugeben. Quellen: SWR-Rechtsredaktion, 02.11.2026, 20:01 Uhr; Art. 8 GG; § 13 VersG NRW; VG Frankfurt, PM 09/2025 vom 06.10.2025. Der politische Hinweis nach dem Check unterscheidet Posecks Infragestellung weiterer Veranstaltungen von Noppers bedingter Forderung nach einer Verbotsprüfung.

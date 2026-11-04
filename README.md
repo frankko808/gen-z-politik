@@ -1,16 +1,31 @@
-# Gen Z geht auf die Straße
+# Gen Z geht auf die Straße · V3
 
-Statische Informationswebsite für den Politikunterricht am Berufskolleg: 30–40 Minuten freies Erkunden auf Smartphone oder iPad, danach acht Fragen im selbstständig ausfüllbaren Mentimeter-Exit-Ticket.
+Statische Themenwebsite für Politik an der Fachoberschule Gesundheit und Soziales.
 
 Website: https://frankko808.github.io/gen-z-politik/
-Teilnahme: https://form.menti.com/s/al8bbbb5jk79
+Mentimeter-Teilnahme: https://form.menti.com/s/al8bbbb5jk79
 
-## Bearbeiten
+## Struktur
 
-Inhalte: index.html. Gestaltung: styles.css. Lokale Interaktionen: app.js. Teilnahmelink: config.js. Lehrkraftübersicht mit Fragen und Lösungen: Lehrkraftuebersicht.md. QR-Code: qr-website.svg.
+- index.html: Startquiz und freie Themenübersicht; #start bleibt erhalten.
+- gen-z.html: Generationenbegriff und erfundene Lebenssituationen.
+- was-ist-passiert.html: Frankreich/Deutschland, Zeitleiste und Frankfurt-Verlauf.
+- lebensrealitaeten.html: Alltag, Beispielbudget und lokale Merkliste.
+- einfluss.html: ausgewertete Wahlstatistik 2025 und Beteiligungswege.
+- protest-und-gewalt.html: Grundrechte und Entscheidungsszenario.
+- wer-sagt-was.html: fünf Positionen, Framing und Faktencheck.
+- styles.css / app.js: Gestaltung und lokale Interaktionen.
+- config.js: unveränderter öffentlicher Mentimeter-Teilnahmelink.
+- photos.json / BILDNACHWEISE.md: Herkunft und Lizenz der optimierten WebP-Fotos.
 
-Vorschau: Python-HTTP-Server im Projektordner starten und lokale Adresse öffnen. Keine Installation für die Website notwendig. Alle Dateipfade sind relativ. Keine externen Schriftanbieter, Tracker, Laufzeit-CDNs oder zentrale Website-Antwortspeicherung.
+Infotexte sind sachlich formuliert; direkte Ansprache in Quiz, Aufgaben und Bedienung erfolgt in Du-Form. Alle Inhalte sind ohne Quizabschluss erreichbar. Persönliche Einschätzungen werden nicht benotet. Es gibt keine Datenbank, Analyse- oder Werbeskripte, Laufzeit-CDNs oder automatisch ladende Videoplayer. Lokale Speicherung ist fehlertolerant.
 
-Veröffentlichung: GitHub-Oberfläche „Add file / Upload files“, Dateien auswählen und auf main committen. Pages veröffentlicht main / (root). Der Connector hat beim Schreibversuch 403 gemeldet; ein lokaler Push wurde nicht getestet. Verwaltungslinks liegen ausschließlich außerhalb dieses Repositorys.
+## Vorschau und Veröffentlichung
 
-Redaktioneller Stand: 3. November 2026. Quellen und deren Bezugszeitpunkte stehen unmittelbar im Inhalt. Historische Statistiken sind kein aktuelles Wahlergebnis.
+Eine statische HTTP-Vorschau im Projektordner starten. Alle lokalen Pfade sind relativ und funktionieren unter /gen-z-politik/.
+
+Geprüfter Schreibweg: GitHub-Browseroberfläche, Add file / Upload files, Änderungen auf main committen. Alle Website-Dateien einschließlich WebP-Fotos liegen absichtlich flach im Projektordner. GitHub Pages veröffentlicht main / (root). Ein lokaler Git-Push wurde nicht getestet. Verwaltungslinks und Recherche-/Prüfnotizen liegen außerhalb des Repositorys.
+
+Originalfotos bleiben unverändert im benachbarten lokalen Bildauswahlordner. Nur optimierte Fassungen werden veröffentlicht. Bildlizenzen gelten jeweils für das einzelne Bild; Bearbeitungen sind in den Nachweisen aufgeführt.
+
+Redaktioneller Stand: 4. November 2026. Mentimeter wurde bei V3 weder bearbeitet noch mit Testantworten befüllt.
