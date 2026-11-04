@@ -1,0 +1,104 @@
+{
+  "checked": "2026-11-04",
+  "videos": [
+    {
+      "id": "mTcevGGqAzk",
+      "title": "„Gen Z regelt“: So liefen Proteste und Ausschreitungen",
+      "channel": "MrWissen2go · funk",
+      "published": "2026-11-01",
+      "seconds": 169,
+      "format": "Kurzüberblick",
+      "topic": "Deutschland",
+      "description": "Mirko Drotschmann fasst den deutschen Protesttag zusammen: die Anliegen der Demonstrierenden, den Verlauf und die Ausschreitungen. Ein schneller Einstieg in die Ereignisse vom 31. Oktober.",
+      "url": "https://www.youtube.com/watch?v=mTcevGGqAzk"
+    },
+    {
+      "id": "7ybVzy-UhkU",
+      "title": "„Migrantisches Milieu“ – Dobrindts Aussage sorgt für Streit",
+      "channel": "ntv Nachrichten",
+      "published": "2026-11-02",
+      "seconds": 188,
+      "format": "Einordnung",
+      "topic": "Die Debatte",
+      "description": "Warum wird über Dobrindts Wortwahl gestritten? Politikreporter Martin Schmidt ordnet die Reaktionen ein und erklärt, welche Rolle bestehende Strafmöglichkeiten und das Jugendstrafrecht spielen.",
+      "url": "https://www.youtube.com/watch?v=7ybVzy-UhkU"
+    },
+    {
+      "id": "mLs-aMmY2WI",
+      "title": "Jugend in der Krise: Was die Zahlen über die Gen Z verraten",
+      "channel": "ZDFheute Nachrichten · WISO",
+      "published": "2026-11-03",
+      "seconds": 294,
+      "format": "Bericht",
+      "topic": "Bildung & Zukunft",
+      "description": "WISO schaut auf Bildungsausgaben, den Berufseinstieg und die Finanzierung von Zukunftsaufgaben. Der Beitrag verbindet die Sorgen junger Menschen mit der Frage, wofür der Staat Geld ausgibt.",
+      "url": "https://www.youtube.com/watch?v=mLs-aMmY2WI"
+    },
+    {
+      "id": "iGDQzJe18jk",
+      "title": "Warum revolutioniert die Gen Z die Politik in Serbien?",
+      "channel": "ARTE Info",
+      "published": "2026-10-28",
+      "seconds": 386,
+      "format": "Erklärbeitrag",
+      "topic": "International",
+      "description": "Ein Bahnhofseinsturz wird zum Auslöser von Studentenprotesten gegen Korruption. ARTE zeichnet nach, wie sich die Bewegung organisierte und welche politischen Veränderungen sie in Serbien erreichte.",
+      "url": "https://www.youtube.com/watch?v=iGDQzJe18jk"
+    },
+    {
+      "id": "ipuoEmqH-Vc",
+      "title": "Abschlusstag des Sommerkongresses von „Fridays for Future“",
+      "channel": "tagesschau · ARD",
+      "published": "2023-08-12",
+      "seconds": 405,
+      "format": "Bericht · Rückblick 2023",
+      "topic": "Was Protest bewirkt",
+      "description": "Ein Blick auf Fridays for Future nach den großen Klimastreiks: Die Bewegung hat Aufmerksamkeit geschaffen, kämpft aber mit sinkender Beteiligung. Beim Kongress in Lüneburg geht es darum, wie die Arbeit weitergehen soll.",
+      "url": "https://www.youtube.com/watch?v=ipuoEmqH-Vc"
+    },
+    {
+      "id": "hyrCHIK2_3k",
+      "title": "Jugendproteste: Ausschreitungen nach friedlichen Demos",
+      "channel": "tagesschau · ARD",
+      "published": "2026-11-01",
+      "seconds": 704,
+      "format": "Bericht & Interview",
+      "topic": "Protest & Gewalt",
+      "description": "Auf die Nachrichtenbilder folgt eine Einordnung mit Politikwissenschaftlerin Nina Kolleck. Im Mittelpunkt steht die Frage, warum ein Protest mit sozialen Forderungen an manchen Orten in Gewalt übergeht.",
+      "url": "https://www.youtube.com/watch?v=hyrCHIK2_3k"
+    },
+    {
+      "id": "6lKfx1uer9k",
+      "title": "Wehrdienst oder Wehrpflicht? Das gilt ab jetzt!",
+      "channel": "MrWissen2go · funk",
+      "published": "2026-01-25",
+      "seconds": 815,
+      "format": "Erklärvideo · Reform 2026",
+      "topic": "Wehrdienst",
+      "description": "Was unterscheidet freiwilligen Wehrdienst und Wehrpflicht? Mirko Drotschmann erklärt die Anfang 2026 eingeführten Regeln und die Fragen, die sich daraus für junge Erwachsene ergeben.",
+      "url": "https://www.youtube.com/watch?v=6lKfx1uer9k"
+    },
+    {
+      "id": "Qw7iOXd_mk0",
+      "title": "Frankreich vs. Gen Z",
+      "channel": "tatsache · funk",
+      "published": "2026-10-27",
+      "seconds": 1339,
+      "format": "Hintergrund & Chronologie",
+      "topic": "Frankreich",
+      "description": "Vom Streit um eine Schule zur landesweiten Protestwelle: Der Film verfolgt die Ausbreitung der Bewegung, die Rolle sozialer Medien und die Eskalation zwischen Demonstrierenden und Polizei.",
+      "url": "https://www.youtube.com/watch?v=Qw7iOXd_mk0"
+    },
+    {
+      "id": "R-QSMByrjo8",
+      "title": "Boomer vs. Gen Z: Wer ist hier verwöhnt?",
+      "channel": "ZDFheute Nachrichten · Am Puls mit Mitri Sirin",
+      "published": "2026-10-11",
+      "seconds": 3219,
+      "format": "Reportage",
+      "topic": "Generationen & Gerechtigkeit",
+      "description": "Miete, Rente und Wehrpflicht: Mitri Sirin geht der Frage nach, wie gerecht Chancen und Belastungen zwischen Jung und Alt verteilt sind. Eine längere Reportage mit unterschiedlichen Lebenslagen und Positionen.",
+      "url": "https://www.youtube.com/watch?v=R-QSMByrjo8"
+    }
+  ]
+}

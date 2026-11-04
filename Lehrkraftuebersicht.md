@@ -108,3 +108,10 @@ Das Wehrdienst-Gedankenexperiment hat vier Verfahren: Bundestag, Volksabstimmung
 Fridays for Future: Beginn 2018, globaler Streik 15.03.2019 (Deutschland laut Veranstaltenden rund 300.000), Klimabeschluss und Gesetzesverschärfung 2021. Die Bilanz unterscheidet Aufmerksamkeit, politischen Einfluss und Erfüllung eigener Forderungen. Quellen: bpb 08.07.2021; Haunss-Interview 06.12.2023; Andres u. a., ifo Schnelldienst 11.05.2022; geltendes KSG § 3; FFF-Forderungen, abgerufen 04.11.2026. Das gesetzliche Neutralitätsziel 2045 liegt hinter der FFF-Forderung 2035. Gesetzesänderungen werden nicht als ausschließlicher Erfolg eines einzigen Akteurs dargestellt. Drei persönliche Bilanzoptionen führen zu offenen Anschlussfragen, ohne Punkte oder Bewertung.
 
 Die frühere Bus-/Zuständigkeitsaufgabe entfällt in Rubrik 3. Andere Rubriken und Mentimeter wurden nicht verändert.
+
+
+## Videos
+
+Neue Videothek unter videos.html, erreichbar in der oberen Navigation aller acht Seiten und als sechste Karte der Themenübersicht. Neun YouTube-Originalbeiträge: drei bis 5 Minuten, vier zwischen 5 und 15 Minuten, zwei über 15 Minuten. Schwerpunkte: deutscher Protesttag, Debatte um Dobrindts Wortwahl, Bildung und Generationenfinanzen, Proteste in Serbien, Fridays for Future, Protest und Gewalt, Wehrdienst, Frankreich und Generationengerechtigkeit. Kanäle: MrWissen2go/funk, ntv, ZDFheute/WISO/Am Puls, ARTE Info, tagesschau und tatsache/funk. Acht Beiträge von 2026; FFF-Rückblick vom 12.08.2023 ausdrücklich datiert.
+
+Titel, Kanäle, Veröffentlichungsdaten, Laufzeiten und Originalbeschreibungen wurden am 04.11.2026 auf YouTube geprüft; ergänzend Transkriptausschnitte bei WISO und tatsache. Es wird keine vollständige Sichtung aller Filme behauptet. Keine automatischen Videoeinbettungen oder extern geladenen Vorschaubilder. Die neun Ziele sind konkrete Einzelvideos, keine Suchergebnis- oder Kanallinks. Einzelne Überschneidungen bei Protestbildern dienen unterschiedlichen Formaten: kurzer Überblick gegenüber ausführlichem Bericht mit Fachinterview. Die lange Am-Puls-Reportage dauert 53:39 und eignet sich für zusätzliche Zeit. Mentimeter bleibt unverändert.
