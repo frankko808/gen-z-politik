@@ -31,3 +31,6 @@ Geprüfter Schreibweg: GitHub-Browseroberfläche, Add file / Upload files, Ände
 Originalfotos bleiben unverändert im benachbarten lokalen Bildauswahlordner. Nur optimierte Fassungen werden veröffentlicht. Bildlizenzen gelten jeweils für das einzelne Bild; Bearbeitungen sind in den Nachweisen aufgeführt.
 
 Redaktioneller Stand: 4. November 2026. Mentimeter wurde bei V3 weder bearbeitet noch mit Testantworten befüllt.
+
+
+Exit-Ticket aktualisiert am 04.11.2026: fünf freiwillige anonyme Fragen; derselbe Teilnahmelink. Begriffsfrage als offene Eingabe (höchstens drei), Themenauswahl höchstens drei, Protesthaltung als Einfachauswahl, drei Zustimmungsskalen mit möglicher Enthaltung und eine begründete politische Forderung. Aktueller Fragebogen in Lehrkraftuebersicht.md. Keine Testantworten abgesendet.

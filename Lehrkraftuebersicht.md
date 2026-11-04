@@ -1,58 +1,58 @@
 # Lehrkraftübersicht · Gen Z geht auf die Straße
 
-Redaktioneller Stand: 4. November 2026. Die Unterrichtszeit wird durch die Lehrkraft vorgegeben; freie Themenwahl. Mentimeter bleibt in V3 unverändert. Die Website nutzt Du-Form in Aufgaben und Bedienung, sachliche Sprache in Infotexten. Alle drei Wissensfragen lassen sich ausschließlich mit dem Bereich „Was ist passiert?“ beantworten. Keine Bewertung persönlicher Positionen als richtig oder falsch.
+Redaktioneller Stand: 4. November 2026. Die Unterrichtszeit wird durch die Lehrkraft vorgegeben; freie Themenwahl. Die Website nutzt Du-Form in Aufgaben und Bedienung, sachliche Sprache in Infotexten. Das Exit-Ticket wurde am 4. November auf fünf anonyme Fragen umgestellt. Persönliche Positionen werden nicht als richtig oder falsch bewertet.
 
-## Exit-Ticket
+## Exit-Ticket · fünf Fragen
 
 Öffentlicher Teilnehmerlink: https://form.menti.com/s/al8bbbb5jk79
 
-Mentimeter Form im Free-Tarif, selbstständige Bearbeitung. Keine Quiz Competition, keine Rangliste, kein Timer, keine Namensabfrage. Bei Erstellung: 0 Antworten. Die Teilnehmeransicht wurde ohne Absenden von Testantworten geprüft; die spätere Auswertung enthält deshalb keine Testbeiträge. Top-3-Begrenzung bei Frage 7 ist technisch eingestellt. Menti Form ist als Beta gekennzeichnet. Ein Export ist im geprüften Free-Tarif gesperrt (Upgrade); gemeinsame Auswertung erfolgt in der Mentimeter-Ergebnisansicht. Zuletzt gemeldetes Monatskontingent: 0/50 verbraucht, erwartete Lerngruppe unter 30. Weitere Nutzung im selben Monat berücksichtigen.
+Bestehendes Menti Form, gleiche Form-ID und gleicher Teilnahmelink. Alle fünf Fragen sind freiwillig, ohne Namens- oder E-Mail-Abfrage. Das Formular nimmt Antworten an. Keine Quizwertung, Rangliste oder Zeitbegrenzung. Teilnehmeransicht und Einstellungen ohne Eingabe oder Abgabe von Testantworten geprüft; Ergebnisübersicht anschließend weiterhin 0 Teilnehmende / No responses yet. Der Website-Button wurde angeklickt und öffnet die aktualisierte Fassung.
 
-### 1. Welche Forderung gehört zu den zentralen Anliegen der Initiative?
+### 1. Was beschäftigt dich politisch gerade am meisten?
 
-- **A: Mehr Unterstützung für Bildung und psychosoziale Hilfe sowie ein bezahlbares Leben.**
-- B: Höhere Studiengebühren.
-- C: Abschaffung aller Wahlen.
+Offene Eingabe: „Nenne bis zu drei kurze Begriffe.“ Im verwendeten Menti Form steht kein Wortwolken-Fragetyp zur Verfügung. Stattdessen sind höchstens drei offene Eingaben pro Person technisch eingestellt.
 
-Lösung: **A**. Der Überblick nennt diese Anliegen ausdrücklich. Quelle: tagesschau-FAQ, 01.11.2026, 15:46.
+### 2. Bei welchen Themen muss sich besonders dringend etwas ändern?
 
-### 2. Welche Beschreibung unterscheidet den Verlauf in Frankfurt zutreffend?
+Mehrfachauswahl mit technisch höchstens drei Antworten. Hinweis: „Wähle höchstens drei Themen.“
 
-- A: Die Demonstration war völlig störungsfrei, bis ausschließlich unbeteiligte Gruppen auftauchten.
-- **B: Der Protest war überwiegend friedlich; Störungen gab es bereits im Zug, später folgten weitere Ausschreitungen.**
-- C: Alle Teilnehmenden verhielten sich gewalttätig.
+- Wohnen
+- Lebenshaltungskosten
+- Schule/Ausbildung
+- psychische Gesundheit
+- Klima
+- Krieg/Sicherheit/Wehrdienst
+- Rente/Lastenverteilung
+- politische Mitsprache
+- anderes Thema
 
-Lösung: **B**. Der hr-Bericht nennt Unterbrechungen wegen Pyrotechnik bereits im Zug, Auflösung gegen 18:20 Uhr und spätere Eskalation. Aussagen über die Mehrheit der späteren Randalierer dürfen nicht zu einer pauschalen Trennung umgedeutet werden. Quelle: hr/tagesschau, Stand 31.10.2026, 23:38.
+### 3. Wie stehst du zu den Gen-Z-Protesten?
 
-### 3. Welche Haltung vertritt die Bundesschülerkonferenz?
+Einfachauswahl:
 
-- A: Sie organisiert alle Proteste.
-- B: Sie lehnt die Bildungsanliegen ab.
-- **C: Sie unterstützt friedliche Bildungsanliegen, distanziert sich aber von den Veranstaltungen am 31. Oktober.**
+- Unterstützung
+- Zustimmung zu einigen Forderungen bei Skepsis gegenüber der Bewegung
+- überwiegende Ablehnung
+- unentschieden
+- zu wenig informiert
 
-Lösung: **C**. Unterscheidung zwischen Anliegen, Protestform und Veranstaltern. Quelle: BSK-Originalstellungnahme, 24.10.2026; sie erschien vor den Ereignissen.
+### 4. Wie sehr stimmst du zu?
 
-### 4. Wie ausreichend werden die Interessen junger Menschen politisch berücksichtigt?
+Ein Skalenblock mit drei Aussagen:
 
-Abgestufte Auswahl: sehr unzureichend / eher unzureichend / teils, teils / eher ausreichend / völlig ausreichend / kann ich noch nicht beurteilen beziehungsweise keine Angabe. Keine richtige Lösung. Nachfrage für das Gespräch: Woran machen Sie Ihre Einschätzung fest?
+- Die Politik nimmt die Sorgen junger Menschen ernst.
+- Auch nach Ausschreitungen sollten die politischen Forderungen im Mittelpunkt stehen.
+- Proteste brauchen wenige konkrete Forderungen, um etwas zu verändern.
 
-### 5. Wie überzeugend sind die zentralen Forderungen der Initiative insgesamt?
+Je Aussage Skala 1–5: Stimme gar nicht zu / Stimme eher nicht zu / Teils, teils / Stimme eher zu / Stimme voll zu. Jede Aussage kann einzeln unbeantwortet bleiben; darauf weist die Beschreibung hin. Es gibt kein gesondertes Enthaltungsfeld. In der unangetasteten Teilnehmeransicht tragen alle drei Regler die zugängliche Beschreibung „No value selected“; die angezeigte technische Startposition 1 ist noch keine ausgewählte Antwort.
 
-Abgestufte Zustimmung von sehr wenig bis sehr überzeugend mit neutraler Mitte und Möglichkeit, kein Urteil abzugeben. Keine richtige Lösung. Im Gespräch nach einzelnen Forderungen differenzieren: Ein Gesamturteil bedeutet keine Zustimmung zu jedem Veranstalter oder jeder Handlung.
+### 5. Welche konkrete Veränderung würdest du von der Politik fordern – und warum?
 
-### 6. Wie angemessen finden Sie Dobrindts Formulierung?
+Offene Antwort, eine Eingabe. Hinweis: „Antworte in ein bis zwei Sätzen.“
 
-Der vollständige dokumentierte Wortlaut steht auf wer-sagt-was.html und im unveränderten Mentimeter.
+### Gemeinsame Auswertung
 
-Quelle und Kontext: Alexander Dobrindt gegenüber Bild, 01.11.2026, dokumentiert durch Deutsche Welle am 01.11.2026 über den Vorabend. Bewertung von sehr unangemessen bis sehr angemessen mit neutraler Mitte und Möglichkeit, kein Urteil abzugeben. Keine richtige Lösung. Behauptung über Gruppenzugehörigkeit, hierfür angeführte Belege und Wirkung der Wortwahl getrennt besprechen. Die Beschreibung von Verdächtigen belegt für sich keine Ursache von Gewalt.
-
-### 7. Welche politischen Prioritäten sind Ihnen besonders wichtig?
-
-Bis zu drei aus Wohnen/Lebenshaltung, Bildung, Klima, Sicherheit, psychischer Gesundheit, sozialer Sicherung, Grundrechten, Wirtschaft/Arbeit. Maximal drei technisch einstellbar und eingestellt. Keine richtige Lösung; die Auswahl muss nicht der lokalen Themenauswahl auf der Website entsprechen.
-
-### 8. Welche konkrete politische Veränderung würden Sie fordern? Begründen Sie Ihre Forderung in ein bis zwei Sätzen.
-
-Freitext. Keine richtige Lösung. Bitte keine Namen oder persönlichen Angaben. Bei der gemeinsamen Besprechung auf Konkretisierung, Begründung, Finanzierung und Zielkonflikte eingehen; keine personenbezogene Bewertung. Der automatisch gekürzte Fragetitel in Mentimeter enthält die eigentliche Frage vollständig.
+Ergebnisse werden direkt in Mentimeter besprochen. Die Ansicht für Teilnehmende zeigt keine Ergebnisse an; Mehrfachabgaben vom selben Gerät sind ausgeschaltet. Export war im geprüften Free-Zugang deaktiviert (Upgrade). Keine personenbezogene Bewertung; keine Namen oder persönlichen Angaben in offenen Antworten verlangen.
 
 ## Quellen und Einordnung
 
