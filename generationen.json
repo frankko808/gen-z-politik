@@ -122,9 +122,19 @@
   },
   "quiz": [
     {
+      "quote": "Kannst du mir das kurz schreiben? Ein Anruf ohne Vorwarnung ist ein Überfall.",
+      "answer": "z",
+      "feedback": "Generation Z. Erst die Nachricht, dann vielleicht der Anruf."
+    },
+    {
       "quote": "Früher sind wir zur Schule gelaufen. Bergauf. Hin und zurück.",
       "answer": "boomer",
       "feedback": "Babyboomer. Die Strecke wird beim Erzählen jedes Jahr ein bisschen länger."
+    },
+    {
+      "quote": "Geboren mit Tablet, groß geworden mit KI – und ihr druckt noch Arbeitsblätter?",
+      "answer": "alpha",
+      "feedback": "Generation Alpha. Touchscreen und Sprachassistent waren schon da, als das erste Schulheft kam."
     },
     {
       "quote": "Ich habe Kassetten mit einem Bleistift repariert. Dein WLAN-Problem schaffen wir auch.",
@@ -135,16 +145,6 @@
       "quote": "Ich habe fürs Internet noch das Telefon blockiert. Heute blockiere ich Termine für meine Work-Life-Balance.",
       "answer": "y",
       "feedback": "Millennials / Gen Y. Das Modem piepte, die Familie wollte telefonieren: frühes Konfliktmanagement."
-    },
-    {
-      "quote": "Kannst du mir das kurz schreiben? Ein Anruf ohne Vorwarnung ist ein Überfall.",
-      "answer": "z",
-      "feedback": "Generation Z. Erst die Nachricht, dann vielleicht der Anruf."
-    },
-    {
-      "quote": "Geboren mit Tablet, groß geworden mit KI – und ihr druckt noch Arbeitsblätter?",
-      "answer": "alpha",
-      "feedback": "Generation Alpha. Touchscreen und Sprachassistent waren schon da, als das erste Schulheft kam."
     }
   ]
 }
