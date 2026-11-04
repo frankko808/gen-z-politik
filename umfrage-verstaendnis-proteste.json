@@ -1,0 +1,30 @@
+{
+  "question": "Haben Sie Verständnis für die Demonstrationen von Jugendlichen in Deutschland?",
+  "institute": "Forsa",
+  "commissioned_by": [
+    "stern",
+    "RTL"
+  ],
+  "fieldwork": [
+    "2026-10-29",
+    "2026-10-30"
+  ],
+  "respondents": 1006,
+  "values": [
+    {
+      "label": "Verständnis",
+      "percent": 83
+    },
+    {
+      "label": "Kein Verständnis",
+      "percent": 16
+    },
+    {
+      "label": "Weiß nicht",
+      "percent": 1
+    }
+  ],
+  "report_updated": "2026-11-03T07:17:00+01:00",
+  "source": "https://www.zeit.de/gesellschaft/zeitgeschehen/2026-11/forsa-umfrage-jugendproteste-deutschland-schueler-cdu-afd",
+  "question_source": "https://www.finanznachrichten.de/nachrichten-2026-11/70012368-forsa-grosse-mehrheit-hat-verstaendnis-fuer-jugendproteste-003.htm"
+}

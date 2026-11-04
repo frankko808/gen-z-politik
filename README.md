@@ -13,7 +13,8 @@ Mentimeter-Teilnahme: https://form.menti.com/s/al8bbbb5jk79
 - lebensrealitaeten.html: Alltag, Beispielbudget und lokale Merkliste.
 - einfluss.html: ausgewertete Wahlstatistik 2025 und Beteiligungswege.
 - protest-und-gewalt.html: Grundrechte und Entscheidungsszenario.
-- wer-sagt-was.html: fünf Positionen, Framing und Faktencheck.
+- wer-sagt-was.html: Streit um die Gen-Z-Proteste, fünf Positionen, Debatte um Dobrindts Wortwahl und Forsa-Tortendiagramm.
+- umfrage-verstaendnis-proteste.svg / .json: zugängliche eigene Grafik und austauschbare Umfragedaten (83/16/1 Prozent, vor dem Protesttag erhoben).
 - styles.css / app.js: Gestaltung und lokale Interaktionen.
 - config.js: unveränderter öffentlicher Mentimeter-Teilnahmelink.
 - photos.json / BILDNACHWEISE.md: Herkunft und Lizenz der optimierten WebP-Fotos.

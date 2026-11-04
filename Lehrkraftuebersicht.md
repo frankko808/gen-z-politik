@@ -78,6 +78,13 @@ Das Beispielbudget rechnet mit erfundenen Werten; 1.100 Euro Einnahmen minus 600
 
 ## Überarbeitete Aufgabenprüfung, 04.11.2026
 
-Alle Website-Aufgaben wurden auf Bezug zu den vorangehenden Inhalten geprüft. Die Checks greifen nun konkrete Situationen auf: unterschiedliche Bedürfnisse von Lea und Samir (B), erste Gehaltsabrechnung und Umlageverfahren (A), Frankfurter Protestablauf (C), ausfallender Schulbus und lokale Zuständigkeit (A), mögliche Verbote weiterer Gen-Z-Demos (C), irreführendes Video im Klassenchat (A). Buchstaben beziehen sich auf die Reihenfolge der Antworten. Jede Auswahl erhält eine eigene Erklärung. Persönliche Prioritäten und Positionen haben keine richtige Lösung. Mentimeter bleibt unverändert.
+Alle Website-Aufgaben wurden auf Bezug zu den vorangehenden Inhalten geprüft. Die Checks greifen nun konkrete Situationen auf: unterschiedliche Bedürfnisse von Lea und Samir (B), erste Gehaltsabrechnung und Umlageverfahren (A), Frankfurter Protestablauf (C), ausfallender Schulbus und lokale Zuständigkeit (A), mögliche Verbote weiterer Gen-Z-Demos (C), zeitliche Einordnung der Forsa-Umfrage im Klassenchat (B). Buchstaben beziehen sich auf die Reihenfolge der Antworten. Jede Auswahl erhält eine eigene Erklärung. Persönliche Prioritäten und Positionen haben keine richtige Lösung. Mentimeter bleibt unverändert.
 
 Der Rechtscheck unterscheidet frühere Ausschreitungen von der Gefahrenprognose für eine konkrete neue Demo. Mildere Maßnahmen und gerichtliche Kontrolle werden im vorhergehenden Text eingeordnet, ohne die Quizantwort wörtlich vorzugeben. Quellen: SWR-Rechtsredaktion, 02.11.2026, 20:01 Uhr; Art. 8 GG; § 13 VersG NRW; VG Frankfurt, PM 09/2025 vom 06.10.2025. Der politische Hinweis nach dem Check unterscheidet Posecks Infragestellung weiterer Veranstaltungen von Noppers bedingter Forderung nach einer Verbotsprüfung.
+
+
+## Überarbeitete Debattenseite
+
+Titel: Streit um die Gen-Z-Proteste. Kürzere Zusammenfassungen der fünf Positionen, FAZ-Originalzitat Neubauer aus dem Transkript ab 17:36, Kritik an Dobrindts Wortwahl einschließlich Norbert Röttgen (CDU) und Boris Pistorius (SPD) sowie seine Unterstützer.
+
+Forsa für stern/RTL: 83 % Verständnis, 16 % kein Verständnis, 1 % weiß nicht; 1.006 Befragte am 29. und 30.10.2026. ZEIT-Bericht aktualisiert am 03.11.2026 um 07:17 Uhr. Der Fragewortlaut ist zusätzlich in der dts-Meldung vom 03.11. belegt. Die Befragung fand VOR dem deutschen Protesttag statt. Das Diagramm zeigt Verständnis für Demonstrationen, keine nachträgliche Bewertung der Ausschreitungen. Der neue Seitencheck prüft diesen zeitlichen Unterschied (Lösung B). Mentimeter bleibt unverändert.
