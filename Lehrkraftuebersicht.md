@@ -97,3 +97,14 @@ Die Seite gen-z.html enthält fünf Generationenprofile (Babyboomer, X, Millenni
 Die Shell-Zeitreihe in Abb. 2.1 des Buchs bezieht sich auf 15- bis 24-Jährige: 2002 34 %, 2010 40 %, 2019 45 %, 2024 55 % politisch interessiert. Die allgemeine Stichprobe der Studie umfasst 12–25 Jahre; diese Bezugsgruppen werden nicht vermischt. JIM: 74 % der 12–19-Jährigen nutzen 2025 KI für Hausaufgaben oder Lernen.
 
 Der frühere Lea/Samir-Wissenscheck auf der Einführung wird durch Wem gehört dieses Vorurteil? ersetzt. Die fünf Zuordnungen: 1 Gen Z (unangekündigter Anruf), 2 Babyboomer (Schulweg), 3 Alpha (Tablet/KI/Arbeitsblätter), 4 Generation X (Kassette/Bleistift), 5 Millennials/Y (Modem/Telefon). Die Sprüche sind redaktionell erfunden. Die humorvolle Musterzuordnung ist kein psychologisches Messinstrument. Rückmeldungen und Punktzahl bleiben auf der Seite; Mentimeter ist unverändert.
+
+
+## Rubrik 3: Wer entscheidet über unsere Zukunft?
+
+Die Schätzfrage verwendet die ausgewertete repräsentative Wahlstatistik zur Bundestagswahl am 23.02.2025 (Bundeswahlleiterin, PM 30/25 vom 23.06.2025): unter 30 rund 13,0 %, 30–59 44,4 %, ab 60 42,6 %. Unter 30 ist der Rest aus den gerundeten anderen Gruppen. Das 100-Punkte-Bild rundet auf 13 / 44 / 43 Punkte. Die frühere Vorwahlschätzung von Destatis (13,3 / 42,1 %) wird hier durch die ausgewerteten Daten ersetzt.
+
+Das Wehrdienst-Gedankenexperiment hat vier Verfahren: Bundestag, Volksabstimmung, direkt Betroffene und Bürgerrat mit anschließender Parlamentsentscheidung. Es gibt keine richtige Musterwahl. Vergleichskriterien sind demokratische Legitimation, direkte Betroffenheit, Verantwortung für alle und die Qualität der Beratung. Rechtsstand geprüft 04.11.2026: freiwilliger Dienst; Fragebogen für Männer verpflichtend, für Frauen freiwillig; eine Bedarfswehrpflicht erfordert nach § 2a WPflG ein Gesetz des Bundestages. Artikel 12a GG, die Regierungs-FAQ und die Bundeswehr-Erläuterung zur Musterung sind verlinkt. Ein Volksentscheid zum Wehrdienst ist im geltenden Bundesrecht nicht vorgesehen; Bürgerräte beraten und beschließen keine Gesetze.
+
+Fridays for Future: Beginn 2018, globaler Streik 15.03.2019 (Deutschland laut Veranstaltenden rund 300.000), Klimabeschluss und Gesetzesverschärfung 2021. Die Bilanz unterscheidet Aufmerksamkeit, politischen Einfluss und Erfüllung eigener Forderungen. Quellen: bpb 08.07.2021; Haunss-Interview 06.12.2023; Andres u. a., ifo Schnelldienst 11.05.2022; geltendes KSG § 3; FFF-Forderungen, abgerufen 04.11.2026. Das gesetzliche Neutralitätsziel 2045 liegt hinter der FFF-Forderung 2035. Gesetzesänderungen werden nicht als ausschließlicher Erfolg eines einzigen Akteurs dargestellt. Drei persönliche Bilanzoptionen führen zu offenen Anschlussfragen, ohne Punkte oder Bewertung.
+
+Die frühere Bus-/Zuständigkeitsaufgabe entfällt in Rubrik 3. Andere Rubriken und Mentimeter wurden nicht verändert.

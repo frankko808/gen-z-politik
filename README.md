@@ -12,7 +12,7 @@ Mentimeter-Teilnahme: https://form.menti.com/s/al8bbbb5jk79
 - generationen.json: Jahrgänge, Generationenprofile, Ereignisjahre, Politikinteresse und Quizsprüche.
 - was-ist-passiert.html: Frankreich/Deutschland, Zeitleiste und Frankfurt-Verlauf.
 - lebensrealitaeten.html: Alltag, Beispielbudget und lokale Merkliste.
-- einfluss.html: ausgewertete Wahlstatistik 2025 und Beteiligungswege.
+- einfluss.html / einfluss.css / einfluss.js: Wer entscheidet über unsere Zukunft? – Wahlstatistik 2025, Wehrdienst-Gedankenexperiment und Fridays for Future.
 - protest-und-gewalt.html: Grundrechte und Entscheidungsszenario.
 - wer-sagt-was.html: Streit um die Gen-Z-Proteste, fünf Positionen, Debatte um Dobrindts Wortwahl und Forsa-Tortendiagramm.
 - umfrage-verstaendnis-proteste.svg / .json: zugängliche eigene Grafik und austauschbare Umfragedaten (83/16/1 Prozent, vor dem Protesttag erhoben).
