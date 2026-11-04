@@ -1,0 +1,150 @@
+{
+  "reference_year": 2026,
+  "year_events": [
+    {
+      "year": 1989,
+      "label": "Mauerfall"
+    },
+    {
+      "year": 2008,
+      "label": "Finanzkrise"
+    },
+    {
+      "year": 2020,
+      "label": "Corona"
+    },
+    {
+      "year": 2026,
+      "label": "Protestjahr"
+    }
+  ],
+  "generations": [
+    {
+      "id": "boomer",
+      "name": "Babyboomer",
+      "short": "B",
+      "born_from": 1946,
+      "born_to": 1964,
+      "intro": "Die Nachkriegszeit bringt in Westdeutschland wirtschaftlichen Aufschwung und mehr Konsum. Der Kalte Krieg und die deutsche Teilung gehören zum Alltag. Fernsehen wird zum Massenmedium – mit festem Programm statt endlosem Scrollen.",
+      "events": "Wirtschaftswunder, Studentenproteste 1968, Ölkrise 1973.",
+      "image": "Leistungsorientiert, durchsetzungsstark, Teamarbeit und beruflicher Aufstieg.",
+      "tools": "Festnetz, Zeitung und Fernsehen; organisieren mit Papier, Telefon und direkter Absprache.",
+      "sources": [
+        "germanytype",
+        "pew"
+      ]
+    },
+    {
+      "id": "x",
+      "name": "Generation X",
+      "short": "X",
+      "born_from": 1965,
+      "born_to": 1980,
+      "intro": "Die Kindheit liegt zwischen Kassettenrekorder und den ersten Heimcomputern. Tschernobyl und der Mauerfall fallen in ihre Schulzeit oder ihr frühes Erwachsenenleben. Musik wird noch aufgenommen, nicht einfach aus einer Playlist gezogen.",
+      "events": "Tschernobyl 1986, Mauerfall 1989 und die Veränderungen nach der Wiedervereinigung.",
+      "image": "Selbstständig, pragmatisch und skeptisch gegenüber großen Versprechen.",
+      "tools": "Kassetten, Disketten und später Internet; vertraut mit dem Wechsel von analoger zu digitaler Arbeit.",
+      "sources": [
+        "pewx",
+        "pew"
+      ]
+    },
+    {
+      "id": "y",
+      "name": "Millennials / Gen Y",
+      "short": "Y",
+      "born_from": 1981,
+      "born_to": 1996,
+      "intro": "Rund um die Jahrtausendwende werden Internet und Handys alltäglich. Die Anschläge vom 11. September 2001 und die Finanzkrise 2008 prägen die Jugend oder den Berufseinstieg. Online geht es zunächst oft am Familien-PC: Bitte kurz nicht telefonieren.",
+      "events": "Internetboom, 11. September 2001, Finanzkrise 2008.",
+      "image": "Hinterfragen Regeln, wünschen Mitsprache und Feedback im Beruf.",
+      "tools": "Suchmaschinen, E-Mail und Chats; zwischen frühen Internetforen und heutigen Apps zu Hause.",
+      "sources": [
+        "germanytype",
+        "pew"
+      ]
+    },
+    {
+      "id": "z",
+      "name": "Generation Z",
+      "short": "Z",
+      "born_from": 1997,
+      "born_to": 2012,
+      "intro": "Smartphones und soziale Netzwerke sind schon in der Jugend ständig dabei. Corona verändert Schule und Ausbildung; Klimawandel, Krieg und hohe Preise rücken näher. Das Smartphone ist die Fernbedienung für den Alltag – samt Nachrichten, die man gar nicht bestellt hat.",
+      "events": "Fridays for Future ab 2018, Corona ab 2020, russischer Angriff auf die Ukraine 2022.",
+      "image": "Selbstbestimmung, Sicherheit und Anerkennung; ein Beruf soll zum eigenen Leben passen.",
+      "tools": "Messenger, Kurzvideos und mobile Recherche; KI-Anwendungen gehören zunehmend zum Lernen.",
+      "sources": [
+        "ifaa",
+        "jim"
+      ]
+    },
+    {
+      "id": "alpha",
+      "name": "Generation Alpha",
+      "short": "α",
+      "born_from": 2013,
+      "born_to": null,
+      "intro": "Touchscreens, Streaming und Sprachassistenten sind von klein auf da. Die älteren Kinder erleben Corona in Kita oder Grundschule. KI wird schon während ihrer Schulzeit alltäglich. Ein Bildschirm, der auf Finger reagiert? Für sie einfach ein Bildschirm.",
+      "events": "Corona-Kindheit, Verbreitung generativer KI seit 2022.",
+      "image": "Die Tablet-Kinder: digitale Angebote gehören selbstverständlich zum Spielen und Lernen.",
+      "tools": "Wischen, Sprachsteuerung, Lern-Apps und digitale Spiele; erste Erfahrungen mit KI.",
+      "sources": [
+        "kim",
+        "canada"
+      ]
+    }
+  ],
+  "political_interest": {
+    "age_group": "15–24 Jahre",
+    "country": "Deutschland",
+    "measure": "stark interessiert oder interessiert",
+    "values": [
+      {
+        "year": 2002,
+        "percent": 34
+      },
+      {
+        "year": 2010,
+        "percent": 40
+      },
+      {
+        "year": 2019,
+        "percent": 45
+      },
+      {
+        "year": 2024,
+        "percent": 55
+      }
+    ],
+    "source": "https://www.beltz.de/fileadmin/beltz/leseproben/9783407832344_shortened.pdf",
+    "reference": "Shell Jugendstudie 2024, Abb. 2.1, S. 43–44"
+  },
+  "quiz": [
+    {
+      "quote": "Früher sind wir zur Schule gelaufen. Bergauf. Hin und zurück.",
+      "answer": "boomer",
+      "feedback": "Babyboomer. Die Strecke wird beim Erzählen jedes Jahr ein bisschen länger."
+    },
+    {
+      "quote": "Ich habe Kassetten mit einem Bleistift repariert. Dein WLAN-Problem schaffen wir auch.",
+      "answer": "x",
+      "feedback": "Generation X. Wer Bandsalat entwirrt hat, lässt sich von einem Ladebalken nicht einschüchtern."
+    },
+    {
+      "quote": "Ich habe fürs Internet noch das Telefon blockiert. Heute blockiere ich Termine für meine Work-Life-Balance.",
+      "answer": "y",
+      "feedback": "Millennials / Gen Y. Das Modem piepte, die Familie wollte telefonieren: frühes Konfliktmanagement."
+    },
+    {
+      "quote": "Kannst du mir das kurz schreiben? Ein Anruf ohne Vorwarnung ist ein Überfall.",
+      "answer": "z",
+      "feedback": "Generation Z. Erst die Nachricht, dann vielleicht der Anruf."
+    },
+    {
+      "quote": "Geboren mit Tablet, groß geworden mit KI – und ihr druckt noch Arbeitsblätter?",
+      "answer": "alpha",
+      "feedback": "Generation Alpha. Touchscreen und Sprachassistent waren schon da, als das erste Schulheft kam."
+    }
+  ]
+}

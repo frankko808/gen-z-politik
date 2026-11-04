@@ -8,7 +8,8 @@ Mentimeter-Teilnahme: https://form.menti.com/s/al8bbbb5jk79
 ## Struktur
 
 - index.html: Startquiz und freie Themenübersicht; #start bleibt erhalten.
-- gen-z.html: Generationenbegriff und erfundene Lebenssituationen.
+- gen-z.html: Generationen von Babyboomern bis Alpha, interaktive Altersübersicht, Shell-Daten und fünfteiliger Klischeecheck.
+- generationen.json: Jahrgänge, Generationenprofile, Ereignisjahre, Politikinteresse und Quizsprüche.
 - was-ist-passiert.html: Frankreich/Deutschland, Zeitleiste und Frankfurt-Verlauf.
 - lebensrealitaeten.html: Alltag, Beispielbudget und lokale Merkliste.
 - einfluss.html: ausgewertete Wahlstatistik 2025 und Beteiligungswege.

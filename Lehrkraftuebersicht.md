@@ -88,3 +88,12 @@ Der Rechtscheck unterscheidet frühere Ausschreitungen von der Gefahrenprognose 
 Titel: Streit um die Gen-Z-Proteste. Kürzere Zusammenfassungen der fünf Positionen, FAZ-Originalzitat Neubauer aus dem Transkript ab 17:36, Kritik an Dobrindts Wortwahl einschließlich Norbert Röttgen (CDU) und Boris Pistorius (SPD) sowie seine Unterstützer.
 
 Forsa für stern/RTL: 83 % Verständnis, 16 % kein Verständnis, 1 % weiß nicht; 1.006 Befragte am 29. und 30.10.2026. ZEIT-Bericht aktualisiert am 03.11.2026 um 07:17 Uhr. Der Fragewortlaut ist zusätzlich in der dts-Meldung vom 03.11. belegt. Die Befragung fand VOR dem deutschen Protesttag statt. Das Diagramm zeigt Verständnis für Demonstrationen, keine nachträgliche Bewertung der Ausschreitungen. Der neue Seitencheck prüft diesen zeitlichen Unterschied (Lösung B). Mentimeter bleibt unverändert.
+
+
+## Erweiterte Generationeneinführung
+
+Die Seite gen-z.html enthält fünf Generationenprofile (Babyboomer, X, Millennials/Y, Z, Alpha), eine knappe Einordnung am Anfang, Namensherkunft und interaktive Altersangaben zu 1989/2008/2020/2026. Jahrgänge orientieren sich an Pew (1946–1964 / 1965–1980 / 1981–1996) und Statistics Canada (1997–2012 / ab 2013); der spätere deutsche Babyboom 1955–1970 wird gesondert erklärt. Das Feld Typisches Image nennt verbreitete Zuschreibungen; Studienwerte stehen mit ihrer jeweiligen Altersgruppe und ihrem Erhebungsjahr daneben.
+
+Die Shell-Zeitreihe in Abb. 2.1 des Buchs bezieht sich auf 15- bis 24-Jährige: 2002 34 %, 2010 40 %, 2019 45 %, 2024 55 % politisch interessiert. Die allgemeine Stichprobe der Studie umfasst 12–25 Jahre; diese Bezugsgruppen werden nicht vermischt. JIM: 74 % der 12–19-Jährigen nutzen 2025 KI für Hausaufgaben oder Lernen.
+
+Der frühere Lea/Samir-Wissenscheck auf der Einführung wird durch Wem gehört dieses Vorurteil? ersetzt. Die fünf Zuordnungen: 1 Babyboomer (Schulweg), 2 Generation X (Kassette/Bleistift), 3 Millennials/Y (Modem/Telefon), 4 Gen Z (unangekündigter Anruf), 5 Alpha (Tablet/KI/Arbeitsblätter). Die Sprüche sind redaktionell erfunden. Die humorvolle Musterzuordnung ist kein psychologisches Messinstrument. Rückmeldungen und Punktzahl bleiben auf der Seite; Mentimeter ist unverändert.
